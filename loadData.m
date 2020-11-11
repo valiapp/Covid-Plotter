@@ -1,6 +1,6 @@
 function loadData
 %% Data dowloading
-fprintf('Downloading data from John Hopkins University''s data repository for the 2019 Novel Coronavirus.\n')
+fprintf('Downloading data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.\nUrl: https://github.com/CSSEGISandData/COVID-19\n')
 
 url1 = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/';
 
