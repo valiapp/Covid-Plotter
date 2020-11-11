@@ -1,14 +1,14 @@
 # Covid Plotter
 
-# General information
+## General information
 
 This software visualizes COVID-19 pandemic global cases and deaths (either cumulative or daily) for all countries. It is fully up-to-date which means that it plots data from the beggining of the pandemic till the day before it is opened by the user.
 
-![](https://github.com/valiapp/Covid-Plotter/blob/main/Demo.gif)
+[!](https://github.com/valiapp/Covid-Plotter/blob/main/Demo.gif)
 
 ## How to use
 
-After downloading repository's files and adding them to MATLAB's path, Covid Plotter is activated by clicking on the `covid\_plotter.mlapp` file or by typing `<covid_plotter>` in command window.
+After downloading repository's files and adding them to MATLAB's path, Covid Plotter is activated by clicking on the `covid_plotter.mlapp` file or by typing `covid_plotter` in command window.
 
 ## Credits
 
