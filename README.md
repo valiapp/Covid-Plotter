@@ -4,7 +4,7 @@
 
 This software visualizes COVID-19 pandemic global cases and deaths (either cumulative or daily) for all countries. It is fully up-to-date which means that it plots data from the beggining of the pandemic till the day before it is opened by the user.
 
-[!](https://github.com/valiapp/Covid-Plotter/blob/main/Demo.gif)
+[!](https://github.com/valiapp/Covid-Plotter/blob/main/demo.gif)
 
 ## How to use
 
